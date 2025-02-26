@@ -1,2 +1,2 @@
-# react-login-crud
-create a react login &amp; register page
+# login_app
+create react app login page
